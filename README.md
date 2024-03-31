@@ -59,6 +59,7 @@ After training your model, you can test its performance using the `test.py` scri
    python test.py
 ```
 Model Loading: The script will automatically load the model parameters from the model_parameter directory. Ensure that your trained model parameters are correctly saved in this directory before running the test.
+
 Test Output: Upon completion, the script will output the loss and accuracy of the model on the test dataset. This information will help you evaluate the model's performance.
 ## Setup
 
