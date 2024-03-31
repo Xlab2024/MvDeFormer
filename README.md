@@ -44,6 +44,10 @@ python process_radar_data.py
 ```
 ## Train
 
+**Run the Training Script**: Execute the `train.py` script from your terminal or command prompt to start the training process. You can run the script using the following command:
+```bash
+   python train.py
+```
 
 
 ## Setup
