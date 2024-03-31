@@ -2,11 +2,14 @@
 <!-- 关于本项目 -->
 ## MvDeFormer
 Torch implementation for achieving accurate recognition of similar gestures under high-strength human activity interference, where a Multi-view De-interference Transformer (MvDeFormer) network is proposed as follows:
-<img src="images/MvDeFormer.png" alt="MvDeFormer-logo" width="834" height="475">
+<img src="images/MvDeFormer.png" alt="MvDeFormer-logo" width="1042" height="594">
 
+For indoor scenarios, human activities such as walking, running, or other unrelated behaviors very likely appear around the user, which would seriously affect the accuracy of gesture recognition. What's more, similar gestures are very difficult to distinguish with same number of segments or partially identical movements. So, in our experiments,  we considered the two issues mentioned above. Specifically, to deal with the strong human activity interference, we design a DeFormer module to capture the useful gesture features by learning different patterns between gestures and interference, thereby reducing the impact of interference. Then, we develop a hierarchical multi-view fusion module to first extract the enhanced features within each view, and effectively fuse them across various views for final recognition. The images of seven similar gestures and the recognition results by MvDeFormer are as follows:
+<p align="center">
+  <img src="images/gesture.png" alt="Gesture" width="400"/>
+  <img src="images/ConfusionMatrix.png" alt="ConfusionMatrix" width="400"/>
+</p>
 
-Similar gestures are very similar with the same number of segments or partially identical movements. In our experiments, we define three groups of gestures with high similarity based on the number of segments as follows:
-![[Gesture]-logo][gesture]
 
 以下是原因：
 * 你应该把时间用在项目的「刀刃」上，也就是专注于解决问题本身上
