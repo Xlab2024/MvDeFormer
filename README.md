@@ -63,111 +63,10 @@ Model Loading: The script will automatically load the model parameters from the 
 Test Output: Upon completion, the script will output the loss and accuracy of the model on the test dataset. This information will help you evaluate the model's performance.
 ## Setup
 
-你应该在这里列出项目使用的主要框架或库。附加组件和插件则应该放在致谢一节中。下面是一些例子。
+## Citation
+If you use this code for your research, please cite our paper.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">返回顶部</a>)</p>
-
-
-
-<!-- 开始 -->
-## 开始
-
-这是一份在本地构建项目的指导的例子。
-要获取本地副本并且配置运行，你可以按照下面的示例步骤操作。
-
-### 依赖
-
-这只是一个列出软件依赖和安装方法的例子。
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### 安装
-
-_下面是一个指导你的受众如何安装和配置你的应用的例子。这个模板不需要任何外部依赖或服务。_
-
-1. 在 [https://example.com](https://example.com) 获取一个免费的 API Key。
-2. 克隆本仓库
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. 安装 NPM 包
-   ```sh
-   npm install
-   ```
-4. 在 `config.js` 中填写你的 API
-   ```js
-   const API_KEY = '填写你的 API';
-   ```
-
-<p align="right">(<a href="#top">返回顶部</a>)</p>
-
-
-
-<!-- 使用方法 示例 -->
-## 使用方法
-
-在这里你可以展示项目的使用方法。把附加的截图、代码示例和演示放在这里也很不错。你也可以用链接引用其他资源。
-
-_转到 [文档](https://example.com) 查看更多示例_
-
-<p align="right">(<a href="#top">返回顶部</a>)</p>
-
-
-
-<!-- 路线图 -->
-## 路线图
-
-- [x] 添加更新日志
-- [x] 添加「返回顶部」链接
-- [ ] 添加额外的模板和示例
-- [ ] 添加「组件」文档，以便更容易复制和粘贴各个部分
-- [ ] 多语种支持
-    - [x] 中文
-    - [ ] 西班牙语
-
-到 [open issues](https://github.com/othneildrew/Best-README-Template/issues) 页查看所有请求的功能 （以及已知的问题）。
-
-<p align="right">(<a href="#top">返回顶部</a>)</p>
-
-
-
-<!-- 贡献 -->
-## 贡献
-
-贡献让开源社区成为了一个非常适合学习、启发和创新的地方。你所做出的任何贡献都是**受人尊敬**的。
-
-如果你有好的建议，请复刻（fork）本仓库并且创建一个拉取请求（pull request）。你也可以简单地创建一个议题（issue），并且添加标签「enhancement」。不要忘记给项目点一个 star！再次感谢！
-
-1. 复刻（Fork）本项目
-2. 创建你的 Feature 分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的变更 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到该分支 (`git push origin feature/AmazingFeature`)
-5. 创建一个拉取请求（Pull Request）
-
-<p align="right">(<a href="#top">返回顶部</a>)</p>
-
-
-
-<!-- 许可证 -->
-## 许可证
-
-根据 MIT 许可证分发。打开 [LICENSE.txt](LICENSE.txt) 查看更多内容。
-
-
-<p align="right">(<a href="#top">返回顶部</a>)</p>
-
-
+<p align="right">(<a href="#top">Reture to top</a>)</p>
 
 <!-- 联系我们 -->
 ## 联系我们
@@ -177,7 +76,6 @@ _转到 [文档](https://example.com) 查看更多示例_
 项目链接: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
-
 
 
 <!-- 致谢 -->
