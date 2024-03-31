@@ -1,6 +1,6 @@
 
 <!-- 关于本项目 -->
-## 关于本项目
+## MvDeFormer
 
 [![产品截图][product-screenshot]](https://example.com)
 
