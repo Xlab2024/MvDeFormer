@@ -1,6 +1,6 @@
 
 <!-- 关于本项目 -->
-## MvDeFormer
+# MvDeFormer
 Torch implementation for achieving accurate recognition of similar gestures under high-strength human activity interference, where a Multi-view De-interference Transformer (MvDeFormer) network is proposed as follows:
 <img src="images/MvDeFormer.png" alt="MvDeFormer-logo" width="833" height="475">
 
@@ -29,7 +29,7 @@ pip install -U scikit-learn
 pip install einops
 pip install linformer
 ```
-## Dataset Preparation
+### Dataset Preparation
 
 To get started, please follow these steps:
 
