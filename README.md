@@ -2,7 +2,7 @@
 <!-- 关于本项目 -->
 ## MvDeFormer
 Torch implementation for achieving accurate recognition of similar gestures under high-strength human activity interference, where a Multi-view De-interference Transformer (MvDeFormer) network is proposed as follows:
-![MvDeFormer-logo][MvDeFormer]
+![MvDeFormer-logo][MvDeFormer]{:height="80%" width="80%"}
 
 Similar gestures are very similar with the same number of segments or partially identical movements. In our experiments, we define three groups of gestures with high similarity based on the number of segments as follows:
 ![[Gesture]-logo][gesture]
