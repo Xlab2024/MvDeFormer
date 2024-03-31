@@ -14,7 +14,21 @@ For indoor scenarios, human activities such as walking, running, or other unrela
 
 
 
-### 构建工具
+### Setup
+
+### Prerequisites
+- Linux or Windows
+- NVIDIA GPU + CUDA CuDNN (CPU mode and CUDA without CuDNN may work with minimal modification, but untested)
+
+### Getting Started
+- Install torch and dependencies from https://github.com/torch/distro
+- Install torch packages tqdm, sklearn, einops and linformer
+```bash
+pip install tqdm
+pip install -U scikit-learn
+pip install einops
+pip install linformer
+```
 
 你应该在这里列出项目使用的主要框架或库。附加组件和插件则应该放在致谢一节中。下面是一些例子。
 
