@@ -10,19 +10,6 @@ For indoor scenarios, human activities such as walking, running, or other unrela
   <img src="images/ConfusionMatrix.png" alt="ConfusionMatrix" width="350" style="vertical-align: middle;"/>
 </p>
 
-
-
-
-
-以下是原因：
-* 你应该把时间用在项目的「刀刃」上，也就是专注于解决问题本身上
-* 你不应该一遍又一遍地做重复的工作，比如每次都从头编写一个 README
-* 你应该在未来的生活中始终遵循 DRY 原则 :smile:
-
-当然，没有一个模板可以满足所有项目，因为你的需求可能与众不同。所以我们会在未来添加更多内容。你也可以通过复刻（fork）本仓库并且创建一个拉取请求（pull request）或者创建议题（issue）来向我们提出建议。感谢所有帮助我们扩充本模板的贡献者！
-
-使用 `BLANK_README_zh.md` 来开始。
-
 <p align="right">(<a href="#top">返回顶部</a>)</p>
 
 
