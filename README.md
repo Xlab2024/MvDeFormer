@@ -48,8 +48,18 @@ python process_radar_data.py
 ```bash
    python train.py
 ```
+Model Parameters: After the training process is complete, the trained model parameters will be saved in the model_parameter directory. Ensure this directory exists or the script will create it for you.
 
+## Test
 
+After training your model, you can test its performance using the `test.py` script. Follow these steps to conduct the test:
+
+**Run the Testing Script**: Execute `test.py` from your terminal or command prompt to begin the testing process. Use the following command:
+ ```bash
+   python test.py
+```
+Model Loading: The script will automatically load the model parameters from the model_parameter directory. Ensure that your trained model parameters are correctly saved in this directory before running the test.
+Test Output: Upon completion, the script will output the loss and accuracy of the model on the test dataset. This information will help you evaluate the model's performance.
 ## Setup
 
 你应该在这里列出项目使用的主要框架或库。附加组件和插件则应该放在致谢一节中。下面是一些例子。
