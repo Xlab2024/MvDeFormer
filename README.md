@@ -5,7 +5,7 @@ Torch implementation for achieving accurate recognition of similar gestures unde
 ![MvDeFormer-logo][MvDeFormer]
 
 Similar gestures are very similar with the same number of segments or partially identical movements. In our experiments, we define three groups of gestures with high similarity based on the number of segments as follows:
-![[Gesture]-logo][[gesture]]
+![[Gesture]-logo][gesture]
 
 以下是原因：
 * 你应该把时间用在项目的「刀刃」上，也就是专注于解决问题本身上
