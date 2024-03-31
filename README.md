@@ -61,55 +61,11 @@ After training your model, you can test its performance using the `test.py` scri
 Model Loading: The script will automatically load the model parameters from the model_parameter directory. Ensure that your trained model parameters are correctly saved in this directory before running the test.
 
 Test Output: Upon completion, the script will output the loss and accuracy of the model on the test dataset. This information will help you evaluate the model's performance.
-## Setup
 
 ## Citation
 If you use this code for your research, please cite our paper.
 
 <p align="right">(<a href="#top">Reture to top</a>)</p>
 
-<!-- 联系我们 -->
-## 联系我们
-
-你的名字 - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-项目链接: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">返回顶部</a>)</p>
 
 
-<!-- 致谢 -->
-## 致谢
-
-在这里列出你觉得有用的资源，并以此致谢。我已经添加了一些我喜欢的资源，以便你可以快速开始！
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#top">返回顶部</a>)</p>
-
-
-
-<!-- MARKDOWN 链接 & 图片 -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[contributors-url]: https://github.com/BreakingAwful/Best-README-Template-zh/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[forks-url]: https://github.com/BreakingAwful/Best-README-Template-zh/network/members
-[stars-shield]: https://img.shields.io/github/stars/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[stars-url]: https://github.com/BreakingAwful/Best-README-Template-zh/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[issues-url]: https://github.com/BreakingAwful/Best-README-Template-zh/issues
-[license-shield]: https://img.shields.io/github/license/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[license-url]: https://github.com/BreakingAwful/Best-README-Template-zh/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[MvDeFormer]: images/MvDeFormer.png
-[Gesture]: images/gesture.png
-[ConfusionMatrix]: images/ConfusionMatrix.png
