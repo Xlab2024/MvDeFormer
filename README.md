@@ -37,12 +37,12 @@ To get started, please follow these steps:
 
 2. **Splitting the Dataset**: Run the `process_radar_data` script to split your dataset into training, validation, and test sets with a ratio of 7:1:2. This will help in evaluating the model's performance accurately.
 
-### How to Split the Dataset
-
 Open a terminal or command prompt and navigate to the directory containing the `process_radar_data` script. Run the following command:
 
 ```bash
 python process_radar_data.py
+```
+
 
 你应该在这里列出项目使用的主要框架或库。附加组件和插件则应该放在致谢一节中。下面是一些例子。
 
