@@ -2,7 +2,7 @@
 <!-- 关于本项目 -->
 ## MvDeFormer
 
-[![产品截图][product-screenshot]](https://example.com)
+[![网络架构][MvDeFormer]]
 
 GitHub 上有很多优秀的 README 模板，但我没找到一个适合我需求的，所以我创建了这个增强版。我想要创建一个 README 模板，它能优秀到成为你的最后一个 README 模板 —— 我认为这就是你所需要的。
 
@@ -170,4 +170,6 @@ _转到 [文档](https://example.com) 查看更多示例_
 [license-url]: https://github.com/BreakingAwful/Best-README-Template-zh/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[MvDeFormer]: images/MvDeFormer.png
+[Gesture]: images/gesture.png
+[ConfusionMatrix]: images/ConfusionMatrix.png
