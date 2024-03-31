@@ -14,7 +14,7 @@ For indoor scenarios, human activities such as walking, running, or other unrela
 
 
 
-### Setup
+## Setup
 
 ### Prerequisites
 - Linux or Windows
@@ -42,7 +42,11 @@ Open a terminal or command prompt and navigate to the directory containing the `
 ```bash
 python process_radar_data.py
 ```
+## Train
 
+
+
+## Setup
 
 你应该在这里列出项目使用的主要框架或库。附加组件和插件则应该放在致谢一节中。下面是一些例子。
 
