@@ -2,7 +2,7 @@
 <!-- 关于本项目 -->
 ## MvDeFormer
 
-[![网络架构][MvDeFormer]]
+[MvDeFormer-logo][MvDeFormer]]
 
 GitHub 上有很多优秀的 README 模板，但我没找到一个适合我需求的，所以我创建了这个增强版。我想要创建一个 README 模板，它能优秀到成为你的最后一个 README 模板 —— 我认为这就是你所需要的。
 
