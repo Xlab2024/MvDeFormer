@@ -66,7 +66,7 @@ Test Output: Upon completion, the script will output the loss and accuracy of th
 If you use this code for your research, please cite our paper.
 
 ```bibtex
-@ARTICLE{10533689,
+@article{10533689,
   author={Jin, Can and Meng, Xiangzhu and Li, Xuanheng and Wang, Jie and Pan, Miao and Fang, Yuguang},
   journal={IEEE Transactions on Mobile Computing}, 
   title={Rodar: Robust Gesture Recognition Based on mmWave Radar Under Human Activity Interference}, 
