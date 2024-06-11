@@ -64,6 +64,16 @@ Test Output: Upon completion, the script will output the loss and accuracy of th
 
 ## Citation
 If you use this code for your research, please cite our paper.
+@ARTICLE{10533689,
+  author={Jin, Can and Meng, Xiangzhu and Li, Xuanheng and Wang, Jie and Pan, Miao and Fang, Yuguang},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={Rodar: Robust Gesture Recognition Based on mmWave Radar Under Human Activity Interference}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Interference;Gesture recognition;Feature extraction;Radar;Sensors;Doppler effect;Data mining;Wireless Sensing;Millimeter Wave Radar;Gesture Recognition;Human Activity Interference;Deep Learning},
+  doi={10.1109/TMC.2024.3402356}}
 
 <p align="right">(<a href="#top">Reture to top</a>)</p>
 
